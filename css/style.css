@@ -1,0 +1,23 @@
+#square {
+	margin: 0 auto;
+	padding: 25px;
+	background: #3498db;
+	border-radius: 10px;
+	height: 100px;
+	width: 100px;
+}
+
+#box {
+	margin: 0 auto;
+	padding: 25px;
+	background: #ecf0f1;
+	border-radius: 10px;
+	border-style: dashed;
+	height: 100px;
+	width: 100px;
+}
+
+#succeed {
+	margin: 0 auto;
+	text-align: center;
+}
